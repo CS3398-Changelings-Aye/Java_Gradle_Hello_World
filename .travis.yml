@@ -29,7 +29,7 @@ deploy:
   provider: releases
   api_key:
     secure: $GITPERM
-  file: 
+  file:
     - README.md
     - hello_world_test_reports.tar.gz 
     - hello_world_executable_distributions.tar.gz 
