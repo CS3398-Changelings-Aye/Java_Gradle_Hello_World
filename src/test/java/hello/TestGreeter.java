@@ -20,7 +20,6 @@ public class TestGreeter {
       assertEquals(g.sayHello(),"Hello!");
    }
 
-//uwu
 
    @Test
    @DisplayName("Test for Name='World'")
